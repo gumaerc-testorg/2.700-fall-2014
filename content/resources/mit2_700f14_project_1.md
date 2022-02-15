@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding hull geometry.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-700-principles-of-naval-architecture-fall-2014/ded8260f8ff2df104dc73d1699d03dec_MIT2_700F14_project_1.pdf
+file: /media/courses/2-700-principles-of-naval-architecture-fall-2014/ded8260f8ff2df104dc73d1699d03dec_MIT2_700F14_project_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Project 1: Hull Geometry'
 uid: ded8260f-8ff2-df10-4dc7-3d1699d03dec

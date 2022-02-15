@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: d4138394-9188-7321-18e6-365bd6c9801f
 ---
@@ -42,20 +44,6 @@ Either of these courses satisfy the prerequisite:
 ### Offered
 
 Every fall semester.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom that can accommodate 42 students. It has several small student desks, four blackboards, and a projector.]({{< resource_file b64ed319-a992-6a7c-fca6-f6b6b1e2f74c >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures take place in this classroom, with rows of student desks, several blackboards, and a projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

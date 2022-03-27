@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eb131430-2300-bb30-a25a-3feae3bbac03
 resourcetype: Document
 title: 'Project 3: Ship Intact Stability'
 uid: 45d7928d-293c-c7d8-b194-d94505127044

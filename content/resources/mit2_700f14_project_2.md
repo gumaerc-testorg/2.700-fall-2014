@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eb131430-2300-bb30-a25a-3feae3bbac03
 resourcetype: Document
 title: 'Project 2: Hydrostatics'
 uid: e85b9ced-442d-afc0-3ffa-3204cdbfc424

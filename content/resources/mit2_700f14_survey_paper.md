@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eb131430-2300-bb30-a25a-3feae3bbac03
 resourcetype: Document
 title: 'Paper: Survey of Naval Architecture Literature'
 uid: b3fc1cea-056e-e4d5-98f8-409eb956bd96

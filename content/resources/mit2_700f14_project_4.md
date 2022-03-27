@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eb131430-2300-bb30-a25a-3feae3bbac03
 resourcetype: Document
 title: 'Project 4: Ship General Stability'
 uid: cd06a2f8-9857-5fae-8d66-3a96644349dc

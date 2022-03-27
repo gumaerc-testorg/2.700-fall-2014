@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eb131430-2300-bb30-a25a-3feae3bbac03
 resourcetype: Document
 title: 'Project 7: Hull Structure'
 uid: a86f4c2e-7df5-635b-ad9d-a8197a4f05b4

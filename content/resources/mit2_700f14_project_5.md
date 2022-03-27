@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: eb131430-2300-bb30-a25a-3feae3bbac03
 resourcetype: Document
 title: 'Project 5: Hull Subdivision and Damage Stability'
 uid: 8316a0aa-bd66-4987-73b3-f4ed5a2dbdcc

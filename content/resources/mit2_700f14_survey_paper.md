@@ -5,6 +5,7 @@ file: /courses/2-700-principles-of-naval-architecture-fall-2014/b3fc1cea056ee4d5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Paper: Survey of Naval Architecture Literature'
 uid: b3fc1cea-056e-e4d5-98f8-409eb956bd96
 ---
 This is a resource file that contains information regarding survey paper.
-

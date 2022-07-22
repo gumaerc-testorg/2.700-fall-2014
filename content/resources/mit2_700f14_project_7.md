@@ -5,6 +5,7 @@ file: /courses/2-700-principles-of-naval-architecture-fall-2014/a86f4c2e7df5635b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Project 7: Hull Structure'
 uid: a86f4c2e-7df5-635b-ad9d-a8197a4f05b4
 ---
 This is a resource file that contains information regarding hull structure.
-

@@ -6,6 +6,7 @@ file: /courses/2-700-principles-of-naval-architecture-fall-2014/8316a0aabd664987
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Project 5: Hull Subdivision and Damage Stability'
 uid: 8316a0aa-bd66-4987-73b3-f4ed5a2dbdcc
 ---
 This is a resource file that contains information regarding hull subdivision and damage stability.
-

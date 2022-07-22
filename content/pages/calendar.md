@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, instructors, guest
+  lecturers, quizzes, and key dates for assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 5a5b1677-ecc3-edc0-b76b-f5ff5621b159
 ---

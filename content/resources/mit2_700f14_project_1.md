@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding hull geometry.
 file: /courses/2-700-principles-of-naval-architecture-fall-2014/ded8260f8ff2df104dc73d1699d03dec_MIT2_700F14_project_1.pdf
+file_size: 486430
 file_type: application/pdf
 learning_resource_types:
 - Projects

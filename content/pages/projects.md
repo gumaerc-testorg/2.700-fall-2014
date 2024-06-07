@@ -35,7 +35,7 @@ PROJECT TOPICS AND FILES
 
 {{% resource_link e85b9ced-442d-afc0-3ffa-3204cdbfc424 "Project 2: Hydrostatics (PDF)" %}}
 
-*   {{% resource_link "999cff89-1c73-4175-a051-951c9c212788" "Rhino Ship Hull Tutorial" %}}
+*   [Rhino Ship Hull Tutorial](http://www.scribd.com/doc/44417287/Rhino-Ship-Hull-Tutorial)
 
 
 {{< tdclose >}}

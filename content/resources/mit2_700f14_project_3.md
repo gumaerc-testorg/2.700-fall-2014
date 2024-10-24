@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding ship intact
   stability.
-file: /courses/2-700-principles-of-naval-architecture-fall-2014/45d7928d293cc7d8b194d94505127044_MIT2_700F14_project_3.pdf
+file: /ol-ocw-studio-app/courses/2-700-principles-of-naval-architecture-fall-2014/45d7928d293cc7d8b194d94505127044_MIT2_700F14_project_3.pdf
 file_size: 134683
 file_type: application/pdf
 learning_resource_types:

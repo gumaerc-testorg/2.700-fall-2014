@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-700-principles-of-naval-architecture-fall-2014/08fb06f49036fd3413721663d1f0d8e5_2-700_stat-students.png
+file: /ol-ocw-studio-app/courses/2-700-principles-of-naval-architecture-fall-2014/08fb06f49036fd3413721663d1f0d8e5_2-700_stat-students.png
 file_size: 2865
 file_type: image/png
 image_metadata:

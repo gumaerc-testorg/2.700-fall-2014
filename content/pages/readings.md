@@ -12,7 +12,7 @@ uid: a0d9fd3d-f345-b221-b489-c76e05c34cc5
 Textbook Key
 ------------
 
-\[PNA\] = Letcher, John. _Principles of Naval Architecture Series: The Geometry of Ships_. The Society of Naval Architects and Marine Engineers, 2010. ISBN: 9780939773671. (Books in this series are available for purchase at [The Society of Naval Architects and Marine Engineers](http://www.sname.org/) website.)
+\[PNA\] = Letcher, John. _Principles of Naval Architecture Series: The Geometry of Ships_. The Society of Naval Architects and Marine Engineers, 2010. ISBN: 9780939773671. (Books in this series are available for purchase at {{% resource_link "b5530ffd-cb5c-4602-aa5a-8fb207e8546c" "The Society of Naval Architects and Marine Engineers" %}} website.)
 
 \[Lewis\] = Lewis, Edward V., ed. _Principles of Naval Architecture, Vol. I & 2_. New York, 1941.
 

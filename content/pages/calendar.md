@@ -445,7 +445,7 @@ Paper Topic Due
 Lab 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Towtank Lab](http://web.mit.edu/towtank/www/)
+{{% resource_link "c1ecd159-a0a2-4165-b45a-3cfb77a57840" "Towtank Lab" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -460,7 +460,7 @@ Lab 1
 Lab 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Towtank Lab](http://web.mit.edu/towtank/www/) (cont.)
+{{% resource_link "c1ecd159-a0a2-4165-b45a-3cfb77a57840" "Towtank Lab" %}} (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -560,7 +560,7 @@ L21
 
 Advanced Hull Forms
 
-Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php)
+Guest Lecturer: Stefano Brizzolara, {{% resource_link "0d708d0b-7ca2-4a86-ae4d-aead1de5f13e" "MIT Sea Grant" %}}
 
 
 {{< tdclose >}}
@@ -581,7 +581,7 @@ L22
 
 Advanced Hull Forms (cont.)
 
-Guest Lecturer: Stefano Brizzolara, [MIT Sea Grant](http://seagrant.mit.edu/index.php)
+Guest Lecturer: Stefano Brizzolara, {{% resource_link "0d708d0b-7ca2-4a86-ae4d-aead1de5f13e" "MIT Sea Grant" %}}
 
 
 {{< tdclose >}}

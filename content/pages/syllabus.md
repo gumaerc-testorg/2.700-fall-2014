@@ -23,7 +23,7 @@ This course presents principles of naval architecture, ship geometry, hydrostati
 Students need to have taken one of these courses:
 
 - [*2.002 Mechanics and Materials II*](/courses/2-002-mechanics-and-materials-ii-spring-2004)
-- {{% resource_link "cd80d9a2-60a9-4500-9cb4-bfef1b40978b" "*2.02B Mechanics of Structures*" %}}
+- [*2.02B Mechanics of Structures*](http://student.mit.edu/catalog/m2a.html#2.02B)
 
 ## Grading
 
@@ -53,7 +53,7 @@ Lewis, Edward V., ed. *Principles of Naval Architecture, Vol. I: Stability and S
 
 Gillmer, Thomas C., and Bruce Johnson. *Introduction to Naval Architecture*. Naval Institute Press, 1982. ISBN: 9780870213182.
 
-*Books in this series are available for purchase at* {{% resource_link "782190a9-d502-4d40-bd7f-c5d77827a37e" "*The Society of Naval Architects and Marine Engineers*" %}} *website.*
+*Books in this series are available for purchase at* [*The Society of Naval Architects and Marine Engineers*](https://www.sname.org/sname-text-reference-books) *website.*
 
 Kerwin, Justin E., and Jacques B. Hadler. *Principles of Naval Architecture Series: Propulsion*. The Society of Naval Architects and Marine Engineers, 2010. ISBN: 9780939773831.
 
@@ -65,8 +65,8 @@ Letcher, John. *Principles of Naval Architecture Series: The Geometry of Ships*.
 
 *These textbooks are not required, but are useful reference materials.*
 
-Tupper, Eric C. *Introduction to Naval Architecture*. 5th ed. Butterworth-Heinemann, 2013. ISBN: 9780080982373. \[Preview with {{% resource_link "bdb4517f-ebda-45d5-9d4a-67c99a55361d" "Google Books" %}}\]
+Tupper, Eric C. *Introduction to Naval Architecture*. 5th ed. Butterworth-Heinemann, 2013. ISBN: 9780080982373. \[Preview with [Google Books](http://books.google.com/books?id=xfrCzxP_erUC&pg=PAfrontcover)\]
 
 Zubaly, Robert B. *Applied Naval Architecture*. Cornell Maritime Pr / Tidewater Pub, 1996. ISBN: 9780870334757.
 
-Burcher, Roy, and Louis J. Rydill. *Concepts in Submarine Design*. Cambridge University Press, 1994. ISBN: 9780521416818. \[Preview with {{% resource_link "37763e50-1a4a-44f5-b077-0cecd5dd2859" "Google Books" %}}\]
+Burcher, Roy, and Louis J. Rydill. *Concepts in Submarine Design*. Cambridge University Press, 1994. ISBN: 9780521416818. \[Preview with [Google Books](http://books.google.com/books?id=2aGuG6EoOL8C&pg=PAfrontcover)\]
